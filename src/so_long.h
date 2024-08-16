@@ -49,11 +49,11 @@
 
 # define ROCK_XPM			"assets/sprites/rock.xpm"
 # define GRASS_XPM			"assets/sprites/grass.xpm"
-# define POKEBALL_XPM			"assets/sprites/pokeball.xpm"
-# define PLAYER_FRONT_XPM	"assets/sprites/player/walk_up.xpm"
-# define PLAYER_LEFT_XPM	"assets/sprites/player/walk_left.xpm"
-# define PLAYER_RIGHT_XPM	"assets/sprites/player/walk_right.xpm"
-# define PLAYER_BACK_XPM	"assets/sprites/player/walk_down.xpm"
+# define POKEBALL_XPM			"assets/sprites/coin-bag.xpm"
+# define PLAYER_FRONT_XPM	"assets/sprites/player/front.xpm"
+# define PLAYER_LEFT_XPM	"assets/sprites/player/left.xpm"
+# define PLAYER_RIGHT_XPM	"assets/sprites/player/right.xpm"
+# define PLAYER_BACK_XPM	"assets/sprites/player/back.xpm"
 # define OPEN_EXIT_XPM		"assets/sprites/open-exit.xpm"
 # define EXIT_CLOSED_XPM	"assets/sprites/exit-closed.xpm"
 

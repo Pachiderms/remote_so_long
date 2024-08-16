@@ -17,9 +17,9 @@ GREEN			= \033[0;32m
 RED				= \033[0;31m
 RESET			= \033[0m
 
-printf 			= ./lib/printf/printf.a
+printf 			= ./lib/printf/libftprintf.a
 
-CC 				= clang
+CC 				= gcc
 
 STANDARD_FLAGS 	= -Wall -Werror -Wextra
 MINILIBX_FLAGS	= -lmlx -lXext -lX11
