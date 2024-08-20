@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: tzizi <tzizi@student.42.fr>              +#+  +:+       +#+         #
+#    By: tzizi <tzizi@student.42.fr>              +#+  +:+       +#+           #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/08/15 13:30:58 by tzizi            #+#    #+#              #
-#    Updated: 2024/08/15 13:30:58 by tzizi           ###   ########.fr        #
+#    Created: 2024/08/15 13:30:58 by tzizi            #+#    #+#               #
+#    Updated: 2024/08/15 13:30:58 by tzizi           ###   ########.fr         #
 #                                                                              #
 # **************************************************************************** #
 
@@ -86,7 +86,7 @@ re:				fclean all
 rebonus:		fclean ${NAME_BONUS}
 
 run:			${NAME}
-				${VALGRIND} ./${NAME} assets/maps/valid/map4.ber
+				${VALGRIND} ./${NAME} assets/maps/valid/map3.ber
 
 run_bonus:		${NAME_BONUS}
 				${VALGRIND} ./${NAME_BONUS} assets/maps/valid/bonus/map5.ber
